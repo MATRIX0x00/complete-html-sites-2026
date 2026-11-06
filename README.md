@@ -17,6 +17,9 @@ A growing collection of responsive, no-build website demos built with HTML, CSS,
 - Medical clinic — `sites/clinic/` (Bootstrap 5)
 - Law office — `sites/law-office/` (Bootstrap 5)
 - Auto repair shop — `sites/auto-repair/` (Bootstrap 5)
+- Boutique hotel — `sites/hotel/` (Bootstrap 5)
+- Independent school — `sites/school/` (Bootstrap 5)
+- Accounting firm — `sites/accounting/` (Bootstrap 5)
 
 ## Run locally
 
@@ -28,4 +31,4 @@ python3 -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
-The Bootstrap examples load Bootstrap 5.3.3 from jsDelivr and need an internet connection for the framework assets. Forms and contact details are illustrative static-demo content, not working booking, legal, medical, or payment services. Replace sample details and have professional content reviewed before production use.
+Bootstrap examples use Bootstrap 5.3.3 from jsDelivr and need an internet connection for framework assets. Forms are static demos and do not submit or store data. Replace sample branding, contact information, and content before production use; professional service content should be reviewed by qualified providers.
