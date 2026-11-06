@@ -21,7 +21,7 @@ A growing collection of responsive, no-build website demos built with HTML, CSS,
 - Independent school — `sites/school/` (Bootstrap 5)
 - Accounting firm — `sites/accounting/` (Bootstrap 5)
 - Digital agency — `sites/digital-agency/`
-- Wellness spa — `sites/wellness/`
+- Wellness studio — `sites/wellness/`
 - Event planner — `sites/event-planner/`
 
 ## Run locally
