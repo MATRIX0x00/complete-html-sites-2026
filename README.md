@@ -20,6 +20,9 @@ A growing collection of responsive, no-build website demos built with HTML, CSS,
 - Boutique hotel — `sites/hotel/` (Bootstrap 5)
 - Independent school — `sites/school/` (Bootstrap 5)
 - Accounting firm — `sites/accounting/` (Bootstrap 5)
+- Digital agency — `sites/digital-agency/`
+- Wellness spa — `sites/wellness/`
+- Event planner — `sites/event-planner/`
 
 ## Run locally
 
@@ -31,4 +34,4 @@ python3 -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
-Bootstrap examples use Bootstrap 5.3.3 from jsDelivr and need an internet connection for framework assets. Forms are static demos and do not submit or store data. Replace sample branding, contact information, and content before production use; professional service content should be reviewed by qualified providers.
+Bootstrap examples use Bootstrap 5.3.3 from jsDelivr and need an internet connection for framework assets. Forms are static demos and do not submit or store data. Replace sample branding, contact details, and copy to fit your project.
