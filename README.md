@@ -7,12 +7,18 @@ This repository contains multiple complete, responsive HTML website templates yo
 - Tech Startup
 - Restaurant
 - Portfolio
+- Real Estate
+- Fitness Studio
+- Travel Agency
 
 ## Open a site
 
 - `sites/tech-startup/index.html`
 - `sites/restaurant/index.html`
 - `sites/portfolio/index.html`
+- `sites/real-estate/index.html`
+- `sites/fitness/index.html`
+- `sites/travel/index.html`
 
 ## Quick start
 
