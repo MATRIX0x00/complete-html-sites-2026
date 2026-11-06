@@ -1,6 +1,6 @@
 # Full HTML Websites
 
-A growing collection of responsive, no-build website examples made with HTML and CSS.
+A growing collection of responsive, no-build website demos built with HTML, CSS, and Bootstrap 5.
 
 ## Included websites
 
@@ -14,7 +14,18 @@ A growing collection of responsive, no-build website examples made with HTML and
 - Bakery — `sites/bakery/`
 - Photography studio — `sites/photography/`
 - Nonprofit — `sites/nonprofit/`
+- Medical clinic — `sites/clinic/` (Bootstrap 5)
+- Law office — `sites/law-office/` (Bootstrap 5)
+- Auto repair shop — `sites/auto-repair/` (Bootstrap 5)
 
-Open any folder's `index.html` directly in your browser. To serve the repository locally, run `python3 -m http.server 8000` from the repository root and visit `http://localhost:8000`.
+## Run locally
 
-All examples are static demos. Replace sample branding, contact information, pricing, and content before using them in production.
+Open any site's `index.html` in a browser, or run this from the repository root:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then visit `http://localhost:8000`.
+
+The Bootstrap examples load Bootstrap 5.3.3 from jsDelivr and need an internet connection for the framework assets. Forms and contact details are illustrative static-demo content, not working booking, legal, medical, or payment services. Replace sample details and have professional content reviewed before production use.
